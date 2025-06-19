@@ -30,7 +30,7 @@ Aqui está uma captura de tela do resultado final do projeto:
 
 ### Links
 
-* **Solução (Frontend Mentor):** [Adicione o link da sua solução no Frontend Mentor aqui]
+* **Solução (Frontend Mentor):** https://www.frontendmentor.io/solutions/webpage-built-using-html5-and-css3-used-also-flexbox-schems-nW_RLHkWCB
 * **Repositório (GitHub):** https://github.com/Vitorerix/qr-code-component-main
 * **Live Demo:** https://qr-code-rose-two.vercel.app/
 
