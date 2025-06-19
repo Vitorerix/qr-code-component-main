@@ -31,8 +31,8 @@ Aqui está uma captura de tela do resultado final do projeto:
 ### Links
 
 * **Solução (Frontend Mentor):** [Adicione o link da sua solução no Frontend Mentor aqui]
-* **Repositório (GitHub):** [Adicione o link do seu repositório GitHub aqui]
-* **Live Demo:** [Adicione o link do seu GitHub Pages ou outra hospedagem aqui, se tiver]
+* **Repositório (GitHub):** https://github.com/Vitorerix/qr-code-component-main
+* **Live Demo:** https://qr-code-component-main-one-olive.vercel.app/
 
 ## Meu Processo
 
