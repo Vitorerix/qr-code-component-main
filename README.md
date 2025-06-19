@@ -1,6 +1,6 @@
 # Componente de Código QR
 
-![QR Code Component Preview] https://i.ibb.co/BMTGnrR/fontmentor.png
+![QR Code Component Preview] (https://i.ibb.co/Q7R5ZwVh/print.png)
 
 Este é um projeto simples de componente de código QR, desenvolvido como parte de um desafio do Frontend Mentor. O objetivo foi criar um layout básico e responsivo que exibe um código QR, um título e um parágrafo descritivo.
 
@@ -26,7 +26,7 @@ O desafio do Frontend Mentor era construir este componente de código QR e fazê
 
 Aqui está uma captura de tela do resultado final do projeto:
 
-![Captura de Tela do Componente QR Code](https://i.ibb.co/BMTGnrR/fontmentor.png)
+![Captura de Tela do Componente QR Code](https://i.ibb.co/Q7R5ZwVh/print.png)
 
 ### Links
 
