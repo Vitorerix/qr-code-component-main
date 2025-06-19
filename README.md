@@ -32,7 +32,7 @@ Aqui está uma captura de tela do resultado final do projeto:
 
 * **Solução (Frontend Mentor):** [Adicione o link da sua solução no Frontend Mentor aqui]
 * **Repositório (GitHub):** https://github.com/Vitorerix/qr-code-component-main
-* **Live Demo:** https://qr-code-component-main-one-olive.vercel.app/
+* **Live Demo:** https://qr-code-rose-two.vercel.app/
 
 ## Meu Processo
 
